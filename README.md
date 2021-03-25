@@ -21,10 +21,10 @@
 и в документации: Настройка и кастомизация Altium Designer - https://www.altium.com/ru/documentation/altium-designer/configuring-and-customizing-altium-designer
 
 Перечень репозиториев которые нужно скопировать в папку C:\Users\Public\Documents\Altium\ADScripts
-https://github.com/Altium-Designer-addons/scripts-libraries
-https://github.com/BrettLMiller/Altium-DelphiScripts
-https://github.com/igorpnk/SmartChoiceRouter
-https://github.com/igorpnk/GetXYComponent
-https://github.com/igorpnk/PasteMaskCalculator
-https://github.com/igorpnk/NofittedNoPaste
-https://github.com/igorpnk/Select_Script
+1. https://github.com/Altium-Designer-addons/scripts-libraries
+2. https://github.com/BrettLMiller/Altium-DelphiScripts
+3. https://github.com/igorpnk/SmartChoiceRouter
+4. https://github.com/igorpnk/GetXYComponent
+5. https://github.com/igorpnk/PasteMaskCalculator
+6. https://github.com/igorpnk/NofittedNoPaste
+7. https://github.com/igorpnk/Select_Script
