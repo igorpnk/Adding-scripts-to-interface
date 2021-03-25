@@ -22,7 +22,7 @@
 
 Перечень репозиториев которые нужно скопировать в папку C:\Users\Public\Documents\Altium\ADScripts
 1. https://github.com/Altium-Designer-addons/scripts-libraries
-2. https://github.com/BrettLMiller/Altium-DelphiScripts
+2. https://github.com/igorpnk/Altium-DelphiScripts fork (BrettLMiller/Altium-DelphiScripts)
 3. https://github.com/igorpnk/SmartChoiceRouter
 4. https://github.com/igorpnk/GetXYComponent
 5. https://github.com/igorpnk/PasteMaskCalculator
