@@ -19,3 +19,12 @@
 5. В открывшемся окне Edit Command можно указать свое название для кнопки в поле Caption, указать ссылку на иконку в поле Bitmap File и назначить горячие клавиши в разделе Shortcuts.
 Подробнее про кастомизацию можно найти в видео: Как создать первый скрипт в Altium Designer? - https://youtu.be/P9qXXIj3vqg
 и в документации: Настройка и кастомизация Altium Designer - https://www.altium.com/ru/documentation/altium-designer/configuring-and-customizing-altium-designer
+
+Перечень репозиториев которые нужно скопировать в папку C:\Users\Public\Documents\Altium\ADScripts
+https://github.com/Altium-Designer-addons/scripts-libraries
+https://github.com/BrettLMiller/Altium-DelphiScripts
+https://github.com/igorpnk/SmartChoiceRouter
+https://github.com/igorpnk/GetXYComponent
+https://github.com/igorpnk/PasteMaskCalculator
+https://github.com/igorpnk/NofittedNoPaste
+https://github.com/igorpnk/Select_Script
